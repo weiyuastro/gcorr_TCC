@@ -1,2 +1,2 @@
 # gcorr
-Prototype GPU correlator for "small N" radio interferometers
+Prototype GPU Tensor Core correlator on the base of gCorr
